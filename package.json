@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electron/electron-quick-start.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electron/electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/electron/electron-quick-start#readme"
+}
